@@ -23,7 +23,7 @@
  *
  * Dario Correal - Version inicial
  """
-
+prueba = 1
 import config as cf
 import model
 import csv
